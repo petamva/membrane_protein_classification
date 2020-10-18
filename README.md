@@ -2,6 +2,8 @@
 ## Membrane protein classification using supervised learning
 
 This is my master thesis for my Msc in Bioinformatics.
-I have classified membrane proteins to eight types using a variety of classifiers including deep learning models such as Convnets, LSTMs and Wavenets
+I have classified membrane proteins to eight types using a variety of classifiers including deep learning models such as Convnets, LSTMs and Wavenets.   
+Text and diagrams are created in LaTEX.   
+Model deployment in Python language.
 
 
